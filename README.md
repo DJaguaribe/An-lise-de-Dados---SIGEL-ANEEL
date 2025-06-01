@@ -9,9 +9,15 @@ Este repositório reúne o conjunto de códigos, dashboards e material de aprese
   
 - **Dashboards:**  
   Visualizações interativas que facilitam o acompanhamento das principais métricas e indicadores das usinas, permitindo uma análise mais dinâmica e estratégica.
+  Visualizações, além de presentes no Github, podem ser encontradas em:
+  - https://public.tableau.com/app/profile/daniel.jaguaribe/viz/CaseCdV-DanielJaguaribe/Visualizao1?publish=yes
+  - https://public.tableau.com/app/profile/daniel.jaguaribe/viz/CaseCdV-DanielJaguaribe/Visualizao2?publish=yes
   
 - **Apresentações:**  
   Slides e documentos que explicam a metodologia, os insights extraídos e as recomendações para a melhoria dos processos, demonstrando a aplicação prática dos resultados da análise.
+  Apresentação, além de presente no Github, pode ser encontrada em:
+  - https://docs.google.com/presentation/d/16pTtN8Rpc9jsf6IP2pNO60PWT8pQPFy_QiKRxxapKjE/edit?usp=sharing
+  - Importante que a apresentação seja visualizada no modo **APRESENTAÇÃO** para uma maior compreensão do storytelling dos dados.
 
 Este projeto exemplifica como a integração de técnicas de Data Science com dados oficiais pode fornecer uma visão aprofundada do setor eólico, contribuindo para a tomada de decisões mais informadas e sustentáveis.
 
