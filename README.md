@@ -13,7 +13,7 @@ Este repositório reúne o conjunto de códigos, dashboards e material de aprese
   - https://public.tableau.com/app/profile/daniel.jaguaribe/viz/CaseCdV-DanielJaguaribe/Visualizao1?publish=yes
   - https://public.tableau.com/app/profile/daniel.jaguaribe/viz/CaseCdV-DanielJaguaribe/Visualizao2?publish=yes
   
-- **Apresentações:**  
+- **Apresentação:**  
   Slides e documentos que explicam a metodologia, os insights extraídos e as recomendações para a melhoria dos processos, demonstrando a aplicação prática dos resultados da análise.
   Apresentação, além de presente no Github, pode ser encontrada em:
   - https://docs.google.com/presentation/d/16pTtN8Rpc9jsf6IP2pNO60PWT8pQPFy_QiKRxxapKjE/edit?usp=sharing
